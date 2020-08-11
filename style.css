@@ -11,12 +11,12 @@ header {
     background-size: cover;
 }
 h1 {
-    color: cadetblue;
+    color: rgb(59, 142, 145);
     font-size: 4rem;
     font-family: 'Times New Roman', Times, serif;
 }
 .news {
-    background-color: cornsilk;
+    background-color: rgb(180, 162, 91);
     padding: 50px 0 32px;
 }
 article {
@@ -30,7 +30,7 @@ article a {
     text-decoration: none;
 }
 article a:hover {
-    color: rgb(144, 26, 155);
+    color: rgba(124, 10, 29, 0.301);
 }
 article h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
